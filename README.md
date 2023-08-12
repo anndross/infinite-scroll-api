@@ -1,6 +1,6 @@
-# infinite-scroll-api
+# nasa-pic-of-the-day-api
 
-This is the backend of the infinite scroll app, which consumes the [nasa api apod](https://api.nasa.gov/) (Astronomy Picture of the Day), here I am using Nodejs, express, GraphQl and typescript.
+This is the backend of the nasa-pic-of-the-day-app, which consumes the [nasa api apod](https://api.nasa.gov/) (Astronomy Picture of the Day), here I am using Nodejs, express, GraphQl and typescript.
 
 ### Features
 
@@ -15,10 +15,10 @@ This is the backend of the infinite scroll app, which consumes the [nasa api apo
 
 ### Start
 
-To obtain the infinite-scroll-api source codes and the dependent modules, run the git-command in your projects folder:
+To obtain the nasa-pic-of-the-day-api source codes and the dependent modules, run the git-command in your projects folder:
 
 ```
-    git clone git@github.com:anndross/infinite-scroll-api.git
+    git clone git@github.com:anndross/nasa-pic-of-the-day-api.git
 ```
 
 Then you need to install the dependencies, run:
